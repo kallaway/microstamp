@@ -1,1 +1,1 @@
-# microstamp
+# Backend Challenges boilerplate - package.json
